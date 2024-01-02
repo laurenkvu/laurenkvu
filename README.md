@@ -1,6 +1,6 @@
-### hi!
+### hi! 
 
-### I'm a high school learning to code.
+###  - high school student learning to code.
 
 ### contact: lkvu175@gmail.com
 
